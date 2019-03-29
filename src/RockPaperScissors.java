@@ -12,6 +12,7 @@ public class RockPaperScissors {
         System.out.println("Welcome to a simple Rock-Paper-Scissors tutorial at Sail 2019!");
 
         do {
+
             //string variables store your play choices
             String comp = computer.play();
             String you = human.play();
